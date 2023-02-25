@@ -1,8 +1,8 @@
 // import logo from './logo.svg';
 import './App.css';
-import BottomBox from './BottomBox';
-import CenterBox from './CenterBox';
-import TopBox from './TopBox';
+import BottomBox from './BottomBox/BottomBox';
+import CenterBox from './CenterBox/CenterBox';
+import TopBox from './TopBox/TopBox';
 
 function App() {
   return (

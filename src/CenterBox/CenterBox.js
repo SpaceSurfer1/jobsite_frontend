@@ -1,7 +1,7 @@
 import './CenterBox.css';
-import LeftBox from './LeftBox';
-import MiddleBox from './MiddleBox';
-import RightBox from './RightBox';
+import LeftBox from './LeftBox/LeftBox';
+import MiddleBox from './MiddleBox/MiddleBox';
+import RightBox from './RightBox/RightBox';
 function CenterBox() {
     return(
         <div className="centerbox">
