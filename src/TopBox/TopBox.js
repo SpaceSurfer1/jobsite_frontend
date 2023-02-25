@@ -8,6 +8,7 @@ function TopBox() {
             <SiteNameBox></SiteNameBox>
             <SearchBox></SearchBox>
             <TopOptionsBox></TopOptionsBox>
+            <p>Logout</p>
         </div>
     );
     
