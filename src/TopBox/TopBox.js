@@ -7,7 +7,7 @@ function TopBox() {
         <div className="topbox">
             <SiteNameBox></SiteNameBox>
             <SearchBox></SearchBox>
-            <TopOptionsBox></TopOptionsBox>
+            {/* <TopOptionsBox></TopOptionsBox> */}
             <p>Logout</p>
         </div>
     );

@@ -10,11 +10,12 @@ function MiddleBox() {
             </button> */}
             <div class="postboxdiv">
                 <form>
-                    <textarea class="post-field"rows={6}cols={40}placeholder="Type...">
+                    <textarea class="post-field"rows={6}cols={40}>
 
                     </textarea>
                     <br/>
-                    <input type="submit" value="Post"/>
+                    <button>Post</button>
+                    {/* <button>Attach Image</button> */}
                 </form>
             </div>
         </div>
