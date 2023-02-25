@@ -1,0 +1,10 @@
+.top-options-box{
+    /* border: 1px solid grey; */
+}
+.top-options-box a{
+    text-decoration: none;
+    list-style-type: none;
+    color: white;
+    margin: 0px 10px 0px 0px;
+    font-size: 20px;
+}
