@@ -3,7 +3,7 @@ function SearchBox() {
     return(
         <div className="searchbox">
             <form>
-                <input type="text"placeholder="Search..." />
+                <input className="search-field" type="text"placeholder="Search..." />
                 <input type="submit" value="Search" />
             </form>
         </div>
