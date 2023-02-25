@@ -1,7 +1,16 @@
-.leftbox {
+.leftbox{
     border: 1px none red;
     height: 800px;
     width: 250px;
     margin: 10px 0px 0px 0px;
     background-color: rgb(29, 29, 33);
-    }
+}
+.leftbox ul li{
+    list-style-type: none;
+}
+.leftbox ul li a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+    
